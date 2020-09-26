@@ -1,0 +1,54 @@
+main{
+    width: 1920px;
+    height: 420px;
+    background-color:#121116;
+}
+.logo{
+    margin-left: 902px;
+    margin-top: 120px;
+}
+.social{
+    margin-left: 883px;
+    margin-top: 51px;
+    width: 170px;
+    height: 14px;
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+hr{
+    width: 230px;
+    height: 1px;
+    background-color: #ffffff;
+}
+.face{
+    margin-left: 868px;
+}
+.twet{
+    margin-left: 41px;
+}
+.google{
+    margin-left: 50px;
+}
+.drib{
+    margin-left: 40px;
+}
+a{
+    text-decoration: none;
+}
+.copyright{
+    margin-left: 842px;
+    margin-top: 101px;
+    width: 250px;
+    height: 16px;
+    color: #ffffff;
+    font-family: "Open Sans - Semibold";
+    font-size: 17px;
+    font-weight: 400;
+}
+.kasper{
+    color: #00c7fc;
+}
